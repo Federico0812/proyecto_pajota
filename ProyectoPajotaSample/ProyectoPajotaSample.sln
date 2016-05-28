@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B3A0A920-6063-C2DA-0F8B-9C74342670C3}") = "ProyectoPajotaSample", "Assembly-CSharp-firstpass.csproj", "{B33A8A52-1E9D-F9D3-68E3-B51DFE32B8B8}"
+EndProject
+Project("{B3A0A920-6063-C2DA-0F8B-9C74342670C3}") = "ProyectoPajotaSample", "Assembly-CSharp-Editor.csproj", "{DAAD4839-55F2-93D7-1146-0064A66208D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33A8A52-1E9D-F9D3-68E3-B51DFE32B8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33A8A52-1E9D-F9D3-68E3-B51DFE32B8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33A8A52-1E9D-F9D3-68E3-B51DFE32B8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33A8A52-1E9D-F9D3-68E3-B51DFE32B8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAD4839-55F2-93D7-1146-0064A66208D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAD4839-55F2-93D7-1146-0064A66208D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAD4839-55F2-93D7-1146-0064A66208D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAD4839-55F2-93D7-1146-0064A66208D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
